@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _RimPower: 3
+    - _RimPower: 2.31
     m_Colors:
     - _RimColor: {r: 0, g: 5.0000005, b: 5.0000005, a: 0}
   m_BuildTextureStacks: []
